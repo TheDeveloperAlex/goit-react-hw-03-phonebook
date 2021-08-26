@@ -1,0 +1,33 @@
+.interface {
+  padding: 10px;
+  border: 3px solid gold;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+.inputTel {
+  display: block;
+}
+
+.buttonAdd {
+  border-radius: 5px;
+  padding: 5px;
+  height: 30px;
+  background-color: green;
+}
+
+input {
+  margin-bottom: 10px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+}
+
+p {
+  margin: 0;
+}
